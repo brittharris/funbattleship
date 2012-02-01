@@ -1,0 +1,8 @@
+D:\BShips\BShipTestWinForm\BShipServiceLib\obj\Debug\ResolveAssemblyReference.cache
+D:\BShips\BShipTestWinForm\BShipServiceLib\bin\Debug\BShipServiceLib.dll.config
+D:\BShips\BShipTestWinForm\BShipServiceLib\bin\Debug\BShipServiceLib.dll
+D:\BShips\BShipTestWinForm\BShipServiceLib\bin\Debug\BShipServiceLib.pdb
+D:\BShips\BShipTestWinForm\BShipServiceLib\bin\Debug\BShipLogic.dll
+D:\BShips\BShipTestWinForm\BShipServiceLib\bin\Debug\BShipLogic.pdb
+D:\BShips\BShipTestWinForm\BShipServiceLib\obj\Debug\BShipServiceLib.dll
+D:\BShips\BShipTestWinForm\BShipServiceLib\obj\Debug\BShipServiceLib.pdb
